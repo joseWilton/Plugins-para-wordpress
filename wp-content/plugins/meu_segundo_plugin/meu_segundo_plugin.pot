@@ -1,0 +1,35 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Personalizar Painel\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-11-14 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. URI of the plugin
+msgid "https://github.com/joseWilton"
+msgstr ""
+
+#. Author of the plugin
+msgid "José Wilton"
+msgstr ""
+
+#. Name of the plugin
+msgid "Personalizar Painel"
+msgstr ""
+
+#. Description of the plugin
+msgid "plugin desenvolvido para personalizar painel"
+msgstr ""
+
+#: meu_segundo_plugin.php:38
+msgid "Seja Bem vindo ao painel administrativo"
+msgstr ""
